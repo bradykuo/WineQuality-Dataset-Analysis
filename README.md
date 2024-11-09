@@ -130,5 +130,4 @@ http://archive.ics.uci.edu/ml/datasets/Wine+Quality
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
 This project is available for academic and educational purposes.
