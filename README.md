@@ -127,7 +127,7 @@ The wine quality dataset is from the UCI Machine Learning Repository:
 http://archive.ics.uci.edu/ml/datasets/Wine+Quality
 
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 This project is available for academic and educational purposes.
