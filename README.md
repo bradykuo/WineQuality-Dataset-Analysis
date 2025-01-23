@@ -1,7 +1,8 @@
 # Wine Quality Dataset Analysis 
 
-## Overview
-This project analyzes wine quality data from the UCI Machine Learning Repository, focusing on both red and white Vinho Verde wines from Portugal. The analysis includes both binary classification (red vs. white wine) and multi-class classification (quality levels) using various machine learning models.
+This project analyzes wine quality data from the UCI Machine Learning Repository, focusing on both red and white Vinho Verde wines from Portugal. The analysis includes both binary classification (red vs. white wine) and multi-class classification (quality levels) using various machine learning models.<br>
+<br>
+（成大統計系｜機器學習｜作業）
 
 ## Dataset Description
 The dataset contains physical-chemical properties of wines:
